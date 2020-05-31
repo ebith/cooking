@@ -10,5 +10,5 @@ via: http://www.somi.jp/recipe/cooking/%E9%AB%98%E9%87%8E%E8%B1%86%E8%85%90%E3%8
 - 砂糖 大さじ1
 
 ## 手順
-1. 圧力鍋(100kPa)で2分
+1. 圧力鍋(100kPa)で3分
 2. 急冷する
